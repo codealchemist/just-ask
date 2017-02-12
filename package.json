@@ -1,0 +1,16 @@
+{
+  "name": "just-ask",
+  "version": "1.0.0",
+  "description": "Ask a question on the command line, get the answer in a promise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ask",
+    "promise"
+  ],
+  "author": "Alberto Miranda",
+  "license": "MIT",
+  "dependencies": {}
+}
