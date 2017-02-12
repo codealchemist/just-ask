@@ -11,6 +11,7 @@
     "promise"
   ],
   "author": "Alberto Miranda",
+  "repository": "codealchemist/just-ask",
   "license": "MIT",
   "dependencies": {}
 }
