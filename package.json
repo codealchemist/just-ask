@@ -13,5 +13,7 @@
   "author": "Alberto Miranda",
   "repository": "codealchemist/just-ask",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "read": "^1.0.7"
+  }
 }
